@@ -15,7 +15,7 @@ cart (product, quantity)
 receipt (cart, )
 ***
 
-###Input:
+### Input:
 
 Input 1:
 1 book at 12.49
@@ -32,7 +32,7 @@ Input 3:
 1 packet of headache pills at 9.75
 1 box of imported chocolates at 11.25
 
-###Output:
+### Output:
 
 Output 1:
 1 book : 12.49
